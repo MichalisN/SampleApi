@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SampleApi.Data.Models.SampleEntity;
 
-namespace SampleApi.Data.Helpers
+namespace SampleApi.Data.Context
 {
     public class SampleApiContext : DbContext
     {

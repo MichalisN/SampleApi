@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SampleApi.Data.Helpers;
+using SampleApi.Data.Context;
 using SampleApi.Data.Models.SampleEntity;
 
 namespace SampleApi.Data.Repositories;
